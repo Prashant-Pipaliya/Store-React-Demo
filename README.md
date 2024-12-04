@@ -32,12 +32,12 @@ To get started with this project, you need to set up the React app. Follow the s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/storespage.git
+git clone https://github.com/Prashant-Pipaliya/Store-React-Demo.git
 ```
 
 ### 2. Navigate to the project directory
 ```bash
-cd storespage
+cd Store-React-Demo
 ```
 
 ### 3. Install dependencies
